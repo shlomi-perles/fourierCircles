@@ -1,4 +1,4 @@
 # fourierCircles
 Draw any image by using discrete fourier transform
 
-<img src="https://github.com/shlomip100/fourierCircles/blob/main/Examples/gifs/elephant.gif" width="400" height="500" />
+<img src="https://github.com/shlomip100/fourierCircles/blob/main/Examples/gifs/elephant.gif" width="500" height="400" />
