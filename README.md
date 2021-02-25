@@ -6,4 +6,4 @@ Draw any image by using discrete fourier transform
 
 inspired by [3Blue1Brown].
 
-[3Blue1Brown]: "https://www.youtube.com/watch?v=r6sGWTCMz2k&t=10s&ab_channel=3Blue1Brown"
+[3Blue1Brown]: https://www.youtube.com/watch?v=r6sGWTCMz2k&t=10s&ab_channel=3Blue1Brown
